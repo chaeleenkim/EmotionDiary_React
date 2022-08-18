@@ -9,7 +9,7 @@ const RouteTest = () => {
       <br />
       <Link to={"/new"}>NEW</Link>
       <br />
-      <Link to={"/edit"}>LINK</Link>
+      <Link to={"/edit"}>EDIT</Link>
     </>
   );
 };
